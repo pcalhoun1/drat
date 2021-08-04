@@ -6,3 +6,10 @@ Suggests: git2r, knitr, rmarkdown
 License: GPL (>= 2)
 MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
+
+Package: ExactData
+Version: 1.0
+Depends: R (>= 3.5.0)
+License: GPL-2
+MD5sum: dd84e6dc0de2a8d48aa57e3ba1d15272
+NeedsCompilation: no
