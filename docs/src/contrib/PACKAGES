@@ -8,15 +8,8 @@ MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
 NeedsCompilation: no
 
 Package: ExactData
-Version: 1.0
-Depends: R (>= 3.5.0)
-License: GPL-2
-MD5sum: dd84e6dc0de2a8d48aa57e3ba1d15272
-NeedsCompilation: no
-
-Package: ExactData
 Version: 2.0
 Depends: R (>= 3.5.0)
 License: GPL-2
-MD5sum: d1c4e7c54de75996e0be7405fa5f7039
+MD5sum: c1c62260ccf75d8538b34f3e71c452fe
 NeedsCompilation: no
