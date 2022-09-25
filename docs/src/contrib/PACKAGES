@@ -1,17 +1,10 @@
 Package: drat
-Version: 0.1.8
-Depends: R (>= 3.2.0)
+Version: 0.2.3
+Depends: R (>= 3.6.0)
 Imports: utils
-Suggests: git2r, knitr, rmarkdown
+Suggests: git2r, simplermarkdown
 License: GPL (>= 2)
-MD5sum: 2e7107c8bc567c3e7d1aedbd7aaeb396
-NeedsCompilation: no
-
-Package: ExactData
-Version: 1.0
-Depends: R (>= 3.5.0)
-License: GPL-2
-MD5sum: dd84e6dc0de2a8d48aa57e3ba1d15272
+MD5sum: 189ddcfa0554f351be2bf15fb1c61f82
 NeedsCompilation: no
 
 Package: ExactData
